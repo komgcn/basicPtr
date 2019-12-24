@@ -1,0 +1,6 @@
+/home/zhihui/workspace_gary/basicPtr/CMakeFiles/install.dir
+/home/zhihui/workspace_gary/basicPtr/CMakeFiles/list_install_components.dir
+/home/zhihui/workspace_gary/basicPtr/CMakeFiles/rebuild_cache.dir
+/home/zhihui/workspace_gary/basicPtr/CMakeFiles/install/local.dir
+/home/zhihui/workspace_gary/basicPtr/CMakeFiles/install/strip.dir
+/home/zhihui/workspace_gary/basicPtr/CMakeFiles/edit_cache.dir
